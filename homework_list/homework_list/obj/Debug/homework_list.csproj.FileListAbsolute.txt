@@ -1,0 +1,10 @@
+C:\Users\broMomento\source\repos\homework_list\homework_list\bin\Debug\homework_list.exe.config
+C:\Users\broMomento\source\repos\homework_list\homework_list\bin\Debug\homework_list.exe
+C:\Users\broMomento\source\repos\homework_list\homework_list\bin\Debug\homework_list.pdb
+C:\Users\broMomento\source\repos\homework_list\homework_list\obj\Debug\homework_list.csprojAssemblyReference.cache
+C:\Users\broMomento\source\repos\homework_list\homework_list\obj\Debug\homework_list.Form1.resources
+C:\Users\broMomento\source\repos\homework_list\homework_list\obj\Debug\homework_list.Properties.Resources.resources
+C:\Users\broMomento\source\repos\homework_list\homework_list\obj\Debug\homework_list.csproj.GenerateResource.cache
+C:\Users\broMomento\source\repos\homework_list\homework_list\obj\Debug\homework_list.csproj.CoreCompileInputs.cache
+C:\Users\broMomento\source\repos\homework_list\homework_list\obj\Debug\homework_list.exe
+C:\Users\broMomento\source\repos\homework_list\homework_list\obj\Debug\homework_list.pdb
